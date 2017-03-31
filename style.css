@@ -1,0 +1,87 @@
+.index-body {
+    background: url("http://payload453.cargocollective.com/1/21/677732/11363170/1_edit_1288.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+li:hover {
+    float: left;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+
+/*li:hover {
+    display: block;
+    padding: 4px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}*/
+
+ul {
+    display: inline;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: red;
+}
+
+.lialign {
+    float: right !important;
+}
+
+.contact-body {
+    background: url("http://protean.com.ng/wp-content/uploads/2016/03/time-wallpaper-4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.exam-body {
+    background: url("http://protean.com.ng/wp-content/uploads/2016/03/time-wallpaper-4.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.registrationform {
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.3);
+    color: #FFF !important;
+}
+
+legend {
+    text-align: left;
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 26px;
+}
+
+.font-color {
+    color : white;
+    font-size: 30px;
+}
+
+
+
